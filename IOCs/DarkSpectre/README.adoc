@@ -1,4 +1,5 @@
 Collection gathered from the following sources:
+
   - https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers
   - https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign
   - https://www.koi.ai/blog/inside-ghostposter-how-a-png-icon-infected-50-000-firefox-browser-users
