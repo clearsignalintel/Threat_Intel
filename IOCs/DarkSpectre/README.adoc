@@ -1,1 +1,7 @@
-
+Collection gathered from the following sources:
+  - https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers
+  - https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign
+  - https://www.koi.ai/blog/inside-ghostposter-how-a-png-icon-infected-50-000-firefox-browser-users
+  - https://layerxsecurity.com/blog/browser-extensions-gone-rogue-the-full-scope-of-the-ghostposter-campaign/
+  - https://hivepro.com/threat-advisory/ghostposter-a-multi-stage-malware-campaign-hiding-inside-firefox-extensions/
+  - https://www.esecurityplanet.com/threats/ghostposter-malware-hit-50k-users-via-firefox-extension-icons/ 
